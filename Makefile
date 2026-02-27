@@ -10,6 +10,12 @@ install-skills:
 	beliefs install-skill
 	checkpoint install-skill
 
+install-skills-claude:
+	mkdir -p ~/.claude/skills
+	entry install-skill --skill-dir ~/.claude/skills
+	beliefs install-skill --skill-dir ~/.claude/skills
+	checkpoint install-skill --skill-dir ~/.claude/skills
+
 install-skills-gemini:
 	mkdir -p ~/.gemini/skills
 	entry install-skill --skill-dir ~/.gemini/skills

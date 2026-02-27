@@ -1,0 +1,11 @@
+[project]
+name = "agentic-mind"
+version = "0.1.0"
+description = "AI agent memory management starter kit"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "entry @ git+https://github.com/benthomasson/entry",
+    "beliefs @ git+https://github.com/benthomasson/beliefs",
+    "checkpoint @ git+https://github.com/benthomasson/checkpoint",
+]

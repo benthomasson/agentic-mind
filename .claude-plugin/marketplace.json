@@ -1,0 +1,86 @@
+{
+  "name": "agentic-mind",
+  "owner": {
+    "name": "benthomasson"
+  },
+  "plugins": [
+    {
+      "name": "beliefs",
+      "source": "./plugins/beliefs",
+      "description": "Manage belief registry — track claims, detect staleness, resolve conflicts, query contradictions",
+      "version": "0.1.0"
+    },
+    {
+      "name": "checkpoint",
+      "source": "./plugins/checkpoint",
+      "description": "Save and restore working state across context boundaries",
+      "version": "0.1.0"
+    },
+    {
+      "name": "entry",
+      "source": "./plugins/entry",
+      "description": "Create chronologically organized documentation entries",
+      "version": "0.1.0"
+    },
+    {
+      "name": "shared-enterprise",
+      "source": "./plugins/shared-enterprise",
+      "description": "Index markdown into SQLite for structured retrieval, search, and context queries",
+      "version": "0.1.0"
+    },
+    {
+      "name": "slacker",
+      "source": "./plugins/slacker",
+      "description": "Interact with Slack — reminders, DMs, activity, saved messages, search",
+      "version": "0.1.0"
+    },
+    {
+      "name": "gcalcli",
+      "source": "./plugins/gcalcli",
+      "description": "Google Calendar CLI for viewing agenda, adding events, and reminders",
+      "version": "0.1.0"
+    },
+    {
+      "name": "gcmd",
+      "source": "./plugins/gcmd",
+      "description": "Export and access Google Drive files (docs, sheets, meeting notes)",
+      "version": "0.1.0"
+    },
+    {
+      "name": "browser-fetch",
+      "source": "./plugins/browser-fetch",
+      "description": "Fetch authenticated web content (SSO, internal pages) via browser session",
+      "version": "0.1.0"
+    },
+    {
+      "name": "meeting-prep",
+      "source": "./plugins/meeting-prep",
+      "description": "Prepare context for upcoming meetings from Google Docs, Slack, and Jira",
+      "version": "0.1.0"
+    },
+    {
+      "name": "meeting-notes",
+      "source": "./plugins/meeting-notes",
+      "description": "Capture meeting notes and transcripts from the last 24 hours",
+      "version": "0.1.0"
+    },
+    {
+      "name": "update-slack",
+      "source": "./plugins/update-slack",
+      "description": "Fetch new Slack messages from monitored channels and create an entry",
+      "version": "0.1.0"
+    },
+    {
+      "name": "jirahhh",
+      "source": "./plugins/jirahhh",
+      "description": "Create, update, view, and search Jira issues with markdown support",
+      "version": "0.1.0"
+    },
+    {
+      "name": "curl",
+      "source": "./plugins/curl",
+      "description": "Fetch web content using curl (faster alternative to WebFetch)",
+      "version": "0.1.0"
+    }
+  ]
+}

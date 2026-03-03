@@ -1,0 +1,8 @@
+{
+  "name": "slacker",
+  "description": "Interact with Slack",
+  "version": "0.1.0",
+  "author": {
+    "name": "benthomasson"
+  }
+}

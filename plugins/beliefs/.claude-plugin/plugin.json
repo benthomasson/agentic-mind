@@ -1,0 +1,8 @@
+{
+  "name": "beliefs",
+  "description": "Manage belief registry",
+  "version": "0.1.0",
+  "author": {
+    "name": "benthomasson"
+  }
+}

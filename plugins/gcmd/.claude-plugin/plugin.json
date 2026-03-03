@@ -1,0 +1,8 @@
+{
+  "name": "gcmd",
+  "description": "Export and access Google Drive files",
+  "version": "0.1.0",
+  "author": {
+    "name": "benthomasson"
+  }
+}

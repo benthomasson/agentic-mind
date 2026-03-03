@@ -1,0 +1,8 @@
+{
+  "name": "meeting-prep",
+  "description": "Prepare context for upcoming meetings",
+  "version": "0.1.0",
+  "author": {
+    "name": "benthomasson"
+  }
+}

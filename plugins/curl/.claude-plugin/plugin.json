@@ -1,0 +1,8 @@
+{
+  "name": "curl",
+  "description": "Fetch web content using curl",
+  "version": "0.1.0",
+  "author": {
+    "name": "benthomasson"
+  }
+}

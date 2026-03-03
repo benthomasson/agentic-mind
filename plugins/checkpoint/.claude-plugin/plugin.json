@@ -1,0 +1,8 @@
+{
+  "name": "checkpoint",
+  "description": "Save and restore working state",
+  "version": "0.1.0",
+  "author": {
+    "name": "benthomasson"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "shared-enterprise",
+  "description": "Index markdown into SQLite for retrieval",
+  "version": "0.1.0",
+  "author": {
+    "name": "benthomasson"
+  }
+}

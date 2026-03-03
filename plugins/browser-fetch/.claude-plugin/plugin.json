@@ -1,0 +1,8 @@
+{
+  "name": "browser-fetch",
+  "description": "Fetch authenticated web content via browser",
+  "version": "0.1.0",
+  "author": {
+    "name": "benthomasson"
+  }
+}

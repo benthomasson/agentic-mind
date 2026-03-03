@@ -1,0 +1,8 @@
+{
+  "name": "jirahhh",
+  "description": "Create, update, view, and search Jira issues",
+  "version": "0.1.0",
+  "author": {
+    "name": "benthomasson"
+  }
+}
